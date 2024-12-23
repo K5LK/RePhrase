@@ -1,0 +1,9 @@
+gradio
+torch
+transformers
+sentence-transformers
+tiktoken
+sentencepiece
+tensorflow
+requests
+tf-keras
